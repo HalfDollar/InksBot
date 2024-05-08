@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["WATCHING Inks Patchworks"];
 
 
 let currentIndex = 0;
